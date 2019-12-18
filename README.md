@@ -1,1 +1,2 @@
 # staticweb1
+exercise
